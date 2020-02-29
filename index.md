@@ -1,14 +1,11 @@
-![GitHub stars](https://img.shields.io/github/stars/extremenetworks/XMC-Report-Views.svg?style=social)  
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/extremenetworks/XMC-Report-Views.svg?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/extremenetworks/XMC-Report-Views.svg?style=social)
-# Extreme Management Center (NetSight) Reports, Views, Scripts, Workflows.
+# First steps with github pages
 
-Repository for Extreme Management Center (Netsight) community maintained :
-* [FlexView](FlexView/README.md)
-* [OneView Reports](OneView/README.md)
-* [DeviceView](DeviceView/README.md)
-* [Policy Domains](PolicyDomains/README.md)
-* [Scripts](https://github.com/extremenetworks/ExtremeScripting/tree/master/Netsight/oneview_CLI_scripts/README.md)
-* [Workflows](https://github.com/extremenetworks/ExtremeScripting/blob/master/Netsight/oneview_workflows/README.md)
+## Here are some official sites form Extreme Networks :
+* [Extreme Networks GitHub](https://github.com/extremenetworks/)
+* [Extreme Networks](https://www.extremenetworks.com/)
 
->Be Extreme
+## Here are my projects :
+
+* [Stephan's Github](https://github.com/StephanHarrer/)
+
+>Be Extreme with Bell
