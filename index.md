@@ -1,4 +1,4 @@
-## Here are some official sites form Extreme Networks:
+## Here are some official sites from Extreme Networks:
 * [Extreme Networks](https://www.extremenetworks.com/)
 * [Extreme Networks GitHub](https://github.com/extremenetworks/)
 * [Extreme Networks "The Hub"](https://community.extremenetworks.com/)
