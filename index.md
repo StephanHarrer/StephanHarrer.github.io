@@ -1,5 +1,3 @@
-# First steps with github pages
-
 ## Here are some official sites form Extreme Networks:
 * [Extreme Networks](https://www.extremenetworks.com/)
 * [Extreme Networks GitHub](https://github.com/extremenetworks/)
