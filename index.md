@@ -11,4 +11,9 @@
 
 * [Bell Computer-Netzwerke GmbH](https://www.bell.de/)
 
+## mRemoteNG Device Import from XMC
+
+* [mRemoteNG Device Importer](https://gitlab.com/bell-computer-netzwerke/mremoteng-device-import/-/blob/master/README.md)
+
+
 >Be Extreme with Bell
