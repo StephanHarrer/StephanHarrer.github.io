@@ -1,12 +1,12 @@
 ## Impressum
 
 ### Angaben Angaben gem&auml;&szlig; &sect; 5 TMG
-Stephan Harrer\
-Am Saueracker 9\
+Stephan Harrer<br/>
+Am Saueracker 9<br/>
 91244 Reichenschwand
 
 ### Kontakt
-Telefon: 091518658449\
+Telefon: 091518658449<br/>
 E-Mail: stephan.harrer(at)gmx.net
 
 ### Haftung f&uuml;r Inhalte
